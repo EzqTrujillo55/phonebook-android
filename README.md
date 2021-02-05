@@ -96,6 +96,11 @@ _Android Studio_
  
 ## Preview
 ![Screenshot](preview.jpeg)
+
+
+## Video Demostrativo
+https://drive.google.com/file/d/10H5-D0sXGkmYVzOTDaxQBtWhpacmmY9T/view?usp=drivesdk
+
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
