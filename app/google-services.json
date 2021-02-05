@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21548932977",
+    "firebase_url": "https://phonebook-15ca6-default-rtdb.firebaseio.com",
+    "project_id": "phonebook-15ca6",
+    "storage_bucket": "phonebook-15ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21548932977:android:87f3fa0bf34199a380e0d0",
+        "android_client_info": {
+          "package_name": "com.example.phonebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21548932977-7k8d0lqq33fan93o2rncrp2p2im33p1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhn-TjAbvV8ULwqQLR8p8BswWtiuDwt7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21548932977-7k8d0lqq33fan93o2rncrp2p2im33p1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
