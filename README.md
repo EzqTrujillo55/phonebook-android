@@ -95,7 +95,7 @@ _Android Studio_
     ```
  
 ## Preview
-
+![Screenshot](preview.jpeg)
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
