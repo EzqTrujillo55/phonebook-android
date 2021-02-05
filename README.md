@@ -6,7 +6,8 @@ _Aplicación móvil nativa de Agenda de contactos._
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto, también puedes probar directamente la app, descárgala de aquí https://github.com/EzqTrujillo55/CalculadoraAndroid/blob/master/CalculadoraKotlin.apk
+Mira **Deployment** para conocer como desplegar el proyecto, también puedes probar directamente la app, descárgala de aquí 
+https://github.com/EzqTrujillo55/phonebook-android/blob/master/ContactsBook.apk
 
 ### Pre-requisitos 📋
 
